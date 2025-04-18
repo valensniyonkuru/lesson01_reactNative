@@ -15,6 +15,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+Home
 ![localhost_8081_(Pixel 7)](https://github.com/user-attachments/assets/22e19beb-32f7-472c-8b6e-d59e4407abbc)
 Menu
 ![localhost_8081_(Pixel 7) (1)](https://github.com/user-attachments/assets/b80865a8-c2d2-4b27-b5df-7f825c7771c5)
